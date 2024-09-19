@@ -78,7 +78,13 @@ Deliverables
 Interactive Dashboard: 
 
 A user-friendly dashboard visualizing insights from the analysis. Users can explore trends, public sentiment, and the impact of key election events.
-We will use a Data Science Visualization tool such as Streamlit or Taipy.
+
+
+Key Technologies
+Python (Pandas, NumPy, scikit-learn)
+Natural Language Processing (NLTK, SpaCy, Pysentimiento)
+Time Series Analysis (statsmodels, Prophet, ARIMA)
+Data Visualization (Plotly, Dash, Tableau, Streamlit or Taipy)
 
 Data Visualization
 
