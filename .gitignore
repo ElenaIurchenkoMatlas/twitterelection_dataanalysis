@@ -2,3 +2,8 @@
 __pycache__/
 *.env
 JB&DT.datacleaning.ipynb
+
+# Ignore specific files or directories
+project_tweeterelection.ipynb
+jd.ipynb
+JB.datacleaning.ipynb
